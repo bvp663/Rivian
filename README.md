@@ -15,7 +15,7 @@ You can track distance, speed, duration, efficiency, and energy for two trips. C
 #### Enhanced Owner's Guide
 We've improved the usability of the Owner's Guide. Choose **More** and then **Owner's Guide** from the menu on the center display.
 
-#### Rear Display Now Available**
+#### Rear Display Now Available
 To unlock the rear display, choose **Vehicle** from the menu on the center display, and then choose Lighting and Displays.
 
 ### Additional Improvements

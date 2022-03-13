@@ -1,7 +1,7 @@
 # Rivian - Release Notes
 Tracking Rivian Release Notes
 
-## Version 2022.7.0 (b1146918) (March 2022)
+## Version 2022.07.0 (b1146918) (March 2022)
 
 ### Update Details
 
@@ -37,7 +37,7 @@ This software release includes the following:
 * Improved stability of Bluetooth connections
 * Improved audio availability for a better listening experience
 
-## Version 2022.3.1 (547d39ee) (February 2022)
+## Version 2022.03.1 (547d39ee) (February 2022)
 
 ### Update Details
 

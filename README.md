@@ -1,7 +1,7 @@
 # Rivian - Release Notes
 Tracking Rivian Release Notes
 
-## Version 2022.07.0 (b1146918) (March 2022)
+## Version 2022.07.0 (b1146918) | 2022.07.03 (fb272c71) (March 2022)
 
 ### Update Details
 
@@ -24,7 +24,6 @@ This software release includes the following:
 * Increased driving comfort during highway drives and enabled a smoother response to accelerator pedal changes for a better driving experience in on-road drive modes
 * Reduced pedal travel required during hill climbs for a better driving experience in off-road drive modes
 * Improved Vehicle Hold performance on very steep inclines
-* Improved performance of Adaptive Cruise Control and Highway Assist
 * Improved performance of Adaptive Cruise Control and Highway Assist
 * Added the ability to reset vehicle settings in the Drive Modes app
 * Enhanced the power gauge on the driver display

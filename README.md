@@ -1,6 +1,41 @@
 # Rivian - Release Notes
 Tracking Rivian Release Notes
 
+## Version 2022.11.02 (April 2022)
+
+### Update Details
+
+#### New Car Wash Mode
+Car Wash mode closes the windows, locks the charge port door, and pauses other functions while you wash your car.
+
+To use Car Wash mode, choose **Vehicle** from the menu on the center display.
+
+#### Updated TuneIn Design
+We've improved the user interface, features, performance, and responsiveness of Tuneln.
+
+#### Improved DC Fast Charging Performance
+We enabled the support of 500 A charging.
+
+#### Additional Improvements
+This software release includes the following:
+* Improved traction control in muddy terrain
+* Added Low ride height in Conserve drive mode as a manual setting
+* Improved ride height leveling accuracy
+* Improved range loss consistency while the vehicle is sleeping
+* Improved interoperability with third-party public chargers
+* Improved passenger detection so climate, media, and other features stay active while the driver is away, and
+rear passengers remain in the vehicle
+* Vehicle now selects cellular network as preferred network when vehicle is not in Park
+* New user interface for Phone panel with a numeric keypad and mute button
+* Addressed loss of connectivity in rare cases
+* Improved defrost heating and air circulation
+* Improved Auto behavior for climate controls
+* Improved the automatic brightness and white balance when you select the backup camera view or bird's eye
+* Improved Gear Guard detection in low light and snow conditions
+* Improved Gear Guard activation at Home
+* Improved stability of the infotainment system
+* Improved performance of Adaptive Cruise Control and Highway Assist
+
 ## Version 2022.07.0 (b1146918) | 2022.07.03 (fb272c71) (March 2022)
 
 ### Update Details

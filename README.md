@@ -1,5 +1,5 @@
 # Rivian - Release Notes
-Tracking Rivian Release Notes
+Tracking Rivian Release Notes. These are also posted and made available over at [riviantracker.io](https://riviantracker.io)
 
 
 ## Version 2022.15.0 (bb3579b1) (May 2022)

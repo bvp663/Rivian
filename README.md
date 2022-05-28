@@ -1,6 +1,40 @@
 # Rivian - Release Notes
 Tracking Rivian Release Notes. These are also posted and made available over at [riviantracker.io](https://riviantracker.io)
 
+## Version 2022.19.03 (a40737f5) (May 2022)
+
+### Update Details
+
+**Important Note:** This software release will automatically scan the characteristics of the front passenger seat and will display a notification to the driver if the seat is affected by safety recall FSAM-651
+
+#### New Battery Preconditioning en route to Charger
+Battery preconditioning strives to minimize DC fast charging time and achieving optimal charging performance by bringing the battery to ideal temperatures while navigating to a DC fast charger. Preconditioning will automatically start when using the Navigation app and routing to a DC fast charger. The system cools or heats based on battery temperature. The time spent preconditioning can vary based on the advertised power of the charger you're navigating to, and the state of charge with which you may arrive at the DC fast charger.
+
+#### New Soft Sand Mode
+This new off-road drive mode maximizes vehicle performance and capability in soft sand. This mode uses unique traction control settings, minimal stability control support, and reduced regenerative braking to optimize vehicle handling. Navigate to **Drive Modes** button on the center display, then choose the **Off-Road** button, and then **Soft Sand**.
+
+#### Additional Improvements
+* Refined Vehicle Hold feature with smoother and quieter auto hold disengagement
+* Improved regenerative braking in low traction surfaces and during descents on rocky terrain in Rock Crawl mode
+* Improved range estimation in Navigation app when routing to a destination
+* Added Home mode for proximity lock / unlock. This will prevent frequent lock/ unlock issues if your vehicle is
+parked very closely to your phone, and the resulting overnight range loss.
+  * **Important Note:** Enabling this in the Vehicle Access settings menu will leave your vehicle unlocked when parked at your home location set in the Navigation app.
+* User can now customize their vent and recirculation settings while climate control is in Auto mode
+* Improved garage door flyout behavior by allowing it to open while in reverse and making the timeouts more consistent
+* Improved Automatic Cruise Control behavior when engaging and disengaging feature for smoother speed
+transitions
+* Addressed issues with Alexa responsiveness and wake sensitivity
+* Fixed a rare issue when Navigation app would reboot when using Alexa to find directions
+* Updates to Spotify to provide indication of shuffle and repeat statuses on screen, appropriately visualize
+buffering, and minor fixes
+* Fixed a rare issue where cabin preconditioning automatically turned on during charge sessions
+* Fixed a rare occurrence when Bluetooth audio would not be available until the next drive
+* Fixed an issue when leaving vehicle while on Hands Free Call would result in audio playing after vehicle is
+unoccupied
+* Fixed very rare cases of camera displaying green squares
+*  Addressed very rare cases of 12v battery drain
+
 
 ## Version 2022.15.0 (bb3579b1) (May 2022)
 
